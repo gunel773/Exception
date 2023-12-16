@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Exception/1.0.0": {
+        "dependencies": {
+          "Exception.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Exception.dll": {}
+        }
+      },
+      "Exception.Domain/1.0.0": {
+        "dependencies": {
+          "Exception.Helper": "1.0.0"
+        },
+        "runtime": {
+          "Exception.Domain.dll": {}
+        }
+      },
+      "Exception.Helper/1.0.0": {
+        "runtime": {
+          "Exception.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exception.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

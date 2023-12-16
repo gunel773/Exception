@@ -1,0 +1,11 @@
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\bin\Debug\net7.0\Exception.Helper.deps.json
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\bin\Debug\net7.0\Exception.Helper.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\bin\Debug\net7.0\Exception.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\refint\Exception.Helper.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\Exception.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Helper\obj\Debug\net7.0\ref\Exception.Helper.dll

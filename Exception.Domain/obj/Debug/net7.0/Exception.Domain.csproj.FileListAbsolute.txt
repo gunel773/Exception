@@ -1,0 +1,15 @@
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\bin\Debug\net7.0\Exception.Domain.deps.json
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\bin\Debug\net7.0\Exception.Domain.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\bin\Debug\net7.0\Exception.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\refint\Exception.Domain.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\ref\Exception.Domain.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.csproj.AssemblyReference.cache
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\bin\Debug\net7.0\Exception.Helper.dll
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\bin\Debug\net7.0\Exception.Helper.pdb
+C:\Users\Honor MagicBook\Downloads\Exception\Exception.Domain\obj\Debug\net7.0\Exception.Domain.csproj.CopyComplete
